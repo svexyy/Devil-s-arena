@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1742832366,
+	"Version": 1743114035,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -119,12 +119,15 @@
 				"206",
 				"207",
 				"209",
+				"211",
 				"214",
+				"215",
 				"216",
 				"218",
 				"272",
 				"219",
 				"221",
+				"222",
 				"223",
 				"225",
 				"226",
@@ -334,7 +337,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"33"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -403,7 +406,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"7"
+				"6"
 			],
 			"BalanceTiers": [
 				0,
@@ -476,7 +479,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -487,7 +491,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"1"
+				"42"
 			],
 			"BalanceTiers": [
 				0,
@@ -559,7 +563,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -666,7 +671,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"7"
+				"6"
 			],
 			"BalanceTiers": [
 				0,
@@ -1188,7 +1193,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"5"
+				"46"
 			],
 			"BalanceTiers": [
 				0,
@@ -1465,7 +1470,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4"
+				"5"
 			],
 			"BalanceTiers": [
 				0,
@@ -1534,7 +1539,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"7"
+				"53"
 			],
 			"BalanceTiers": [
 				0,
@@ -1670,7 +1675,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -1899,7 +1905,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"5"
+				"42"
 			],
 			"BalanceTiers": [
 				0,
@@ -2323,7 +2329,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"31"
+				"5"
 			],
 			"BalanceTiers": [
 				0,
@@ -2816,6 +2822,54 @@
 			"KillerOfferings": [
 				5
 			]
+		},
+		{
+			"Name": "The Ghoul",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
