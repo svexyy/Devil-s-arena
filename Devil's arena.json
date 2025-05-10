@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1743615793,
+	"Version": 1746906549,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -35,6 +35,7 @@
 				"49",
 				"262",
 				"55",
+				"274",
 				"252",
 				"59",
 				"66",
@@ -2830,7 +2831,7 @@
 		{
 			"Name": "The Ghoul",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
