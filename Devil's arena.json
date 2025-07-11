@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1749835755,
+	"Version": 1752248402,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -89,7 +89,6 @@
 				"144",
 				"149",
 				"150",
-				"151",
 				"155",
 				"266",
 				"162",
@@ -100,10 +99,12 @@
 				"168",
 				"169",
 				"170",
+				"282",
+				"283",
 				"171",
+				"179",
 				"175",
 				"277",
-				"179",
 				"180",
 				"182",
 				"183",
@@ -120,11 +121,13 @@
 				"198",
 				"202",
 				"203",
+				"151",
 				"271",
 				"278",
 				"205",
 				"206",
 				"207",
+				"284",
 				"209",
 				"211",
 				"214",
@@ -1330,11 +1333,10 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
-				8
+				5
 			]
 		},
 		{
@@ -2875,13 +2877,17 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
+			"SurvivorOfferings": [
+				0,
+				2,
+				3
+			],
 			"KillerOfferings": []
 		},
 		{
 			"Name": "The Animatronic",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
