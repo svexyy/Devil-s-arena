@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1754935983,
+	"Version": 1756823074,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -194,8 +194,8 @@
 				"172",
 				"178",
 				"204",
-				"217",
-				"220"
+				"220",
+				"217"
 			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
@@ -353,7 +353,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0"
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -410,8 +410,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -441,7 +440,6 @@
 				]
 			],
 			"SurvivorIndvPerkBans": [
-				"34",
 				"38"
 			],
 			"SurvivorComboPerkBans": [],
@@ -495,8 +493,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -507,7 +504,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"42"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -579,8 +576,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -687,7 +683,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"6"
+				"9"
 			],
 			"BalanceTiers": [
 				0,
@@ -744,8 +740,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -756,7 +751,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"6"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -818,8 +813,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -890,8 +884,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -900,15 +893,15 @@
 		{
 			"Name": "The Nightmare",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
-				0
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -920,14 +913,24 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				198,
+				197
+			],
+			"ItemWhitelist": [
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -942,21 +945,27 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Pig",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"34"
 			],
 			"BalanceTiers": [
-				0
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -968,7 +977,12 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				218,
+				217,
+				216,
+				214
+			],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -990,8 +1004,12 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Clown",
@@ -1271,8 +1289,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -1350,7 +1367,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -1405,8 +1422,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -1474,8 +1490,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -1484,7 +1499,7 @@
 		{
 			"Name": "The Deathslinger",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"5"
 			],
@@ -1555,7 +1570,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"53"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -1575,7 +1590,14 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				398,
+				397,
+				396,
+				395,
+				394,
+				393
+			],
 			"ItemWhitelist": [
 				0,
 				5
@@ -1920,7 +1942,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"42"
+				"5"
 			],
 			"BalanceTiers": [
 				0,
@@ -1977,8 +1999,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -1987,7 +2008,7 @@
 		{
 			"Name": "The Onryo",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"32"
 			],
@@ -2056,7 +2077,7 @@
 		{
 			"Name": "The Dredge",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"34"
 			],
@@ -2194,7 +2215,7 @@
 		{
 			"Name": "The Knight",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"4"
 			],
@@ -2276,7 +2297,7 @@
 		{
 			"Name": "The Skull Merchant",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"31"
 			],
@@ -2342,7 +2363,7 @@
 		{
 			"Name": "The Singularity",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"5"
 			],
@@ -2414,7 +2435,7 @@
 		{
 			"Name": "The Xenomorph",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"9"
 			],
@@ -2495,7 +2516,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"1"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -2523,8 +2544,8 @@
 				675
 			],
 			"ItemWhitelist": [
-				0,
-				5
+				5,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2554,8 +2575,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -2566,7 +2586,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"6"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -2626,8 +2646,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -2893,15 +2912,15 @@
 		{
 			"Name": "The Animatronic",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"6"
 			],
 			"BalanceTiers": [
-				0
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2913,7 +2932,12 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				798,
+				797,
+				795,
+				793
+			],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2935,8 +2959,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		}
 	]
 }
