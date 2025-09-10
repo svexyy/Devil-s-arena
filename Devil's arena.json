@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1756823074,
+	"Version": 1757452296,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -898,9 +898,11 @@
 				"0"
 			],
 			"BalanceTiers": [
+				0,
 				2
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				2
 			],
 			"AntiFacecampPermitted": false,
@@ -912,7 +914,9 @@
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
-			"AddonTiersBanned": [],
+			"AddonTiersBanned": [
+				4
+			],
 			"IndividualAddonBans": [
 				198,
 				197
@@ -962,9 +966,11 @@
 				"34"
 			],
 			"BalanceTiers": [
+				0,
 				4
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				4
 			],
 			"AntiFacecampPermitted": false,
@@ -1075,8 +1081,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -1168,8 +1173,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -1367,7 +1371,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -1630,8 +1634,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -1713,8 +1716,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -1930,8 +1932,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -2205,8 +2206,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -2516,7 +2516,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"1"
 			],
 			"BalanceTiers": [
 				0,
@@ -2544,8 +2544,8 @@
 				675
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				0,
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2586,7 +2586,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"6"
 			],
 			"BalanceTiers": [
 				0,
@@ -2774,8 +2774,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -2784,7 +2783,7 @@
 		{
 			"Name": "The Houndmaster",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"9"
 			],
@@ -2917,9 +2916,11 @@
 				"6"
 			],
 			"BalanceTiers": [
+				0,
 				2
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				2
 			],
 			"AntiFacecampPermitted": false,
@@ -2933,24 +2934,41 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				798,
 				797,
+				798,
 				795,
 				793
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				5,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
