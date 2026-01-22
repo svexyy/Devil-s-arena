@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1768937956,
+	"Version": 1769114269,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -989,13 +989,21 @@
 				216,
 				214
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				4,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1330,8 +1338,8 @@
 				316
 			],
 			"ItemWhitelist": [
-				0,
-				5
+				5,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2009,7 +2017,7 @@
 		{
 			"Name": "The Onryo",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"32"
 			],
