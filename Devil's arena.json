@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1763592254,
+	"Version": 1768937956,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -89,10 +89,12 @@
 				"138",
 				"139",
 				"140",
+				"143",
 				"146",
 				"147",
 				"144",
 				"149",
+				"150",
 				"155",
 				"266",
 				"162",
@@ -113,6 +115,7 @@
 				"182",
 				"183",
 				"243",
+				"264",
 				"185",
 				"186",
 				"265",
@@ -122,7 +125,6 @@
 				"256",
 				"195",
 				"198",
-				"161",
 				"202",
 				"203",
 				"151",
@@ -149,11 +151,9 @@
 				"231",
 				"232",
 				"235",
-				"237",
 				"238",
 				"250",
 				"251",
-				"293",
 				"257",
 				"242"
 			],
@@ -183,10 +183,6 @@
 				[
 					"135",
 					"229"
-				],
-				[
-					"220",
-					"150"
 				]
 			]
 		},
@@ -2863,15 +2859,17 @@
 		{
 			"Name": "The Ghoul",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"5"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				1
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2883,20 +2881,49 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				778,
+				777,
+				773,
+				775,
+				768,
+				769,
+				771,
+				774,
+				772,
+				776
+			],
+			"ItemWhitelist": [
+				5,
+				10,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						11
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -2910,7 +2937,9 @@
 				2,
 				3
 			],
-			"KillerOfferings": []
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Animatronic",
@@ -3068,14 +3097,8 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [
-				0,
-				2,
-				5
-			],
-			"KillerOfferings": [
-				5
-			]
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
