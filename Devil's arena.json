@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1769185141,
+	"Version": 1769515904,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1509,7 +1509,7 @@
 		{
 			"Name": "The Deathslinger",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"5"
 			],
