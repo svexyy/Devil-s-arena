@@ -1,6 +1,180 @@
+svexy
+svexy__
++1
+•
+🎶 Ηταν ενα μικρο καραβι
+
+svexy — 9/10/2025 12:29 PM
+i did 
+Mallow
+
+ — 9/10/2025 4:24 PM
+thank you
+Mallow
+
+ — 11/7/2025 11:04 PM
+hey , can you remove untraint puppys comissioner role please
+svexy — 11/7/2025 11:14 PM
+sure
+Mallow
+
+ — 11/7/2025 11:36 PM
+thank you
+Mallow
+
+ — 11/20/2025 12:44 AM
+hey , i have some changes for bbd
+{
+	"Name": "Devils arena",
+	"Version": 1763592254,
+	"MaxPerkRepetition": 1,
+	"GlobalNotes": "",
+	"Tiers": [
+
+devils_arena (3).json
+46 KB
+svexy — 11/20/2025 12:44 AM
+sure
+its updated lmk if it worked
+Mallow
+
+ — 11/20/2025 12:49 AM
+okay
+i wait few Minutes , for now it dont show any updates on devils arena
+Mallow
+
+ — 11/20/2025 2:00 AM
+ok changes are there
+Mallow
+
+ — 12/25/2025 1:23 AM
+GIF
+Mallow
+
+ — 1/1/2026 2:17 AM
+https://images-ext-1.discordapp.net/external/BWHlrY1aB05R3MBgRV09CSJI8kWIIbeArY0D0DI9Tcs/https/media.tenor.com/tSCb9ArLGyUAAAPo/kristigocouple2024.mp4
+Mallow
+
+ — 1/20/2026 9:40 PM
+hey , i have something to add on bbd for devils arena
+{
+	"Name": "Devils arena",
+	"Version": 1768937956,
+	"MaxPerkRepetition": 1,
+	"GlobalNotes": "",
+	"Tiers": [
+
+devils_arena (4).json
+47 KB
+Mallow
+
+ — 1/22/2026 4:46 PM
+pls we need the updates on bbd  ,
+svexy — 1/22/2026 5:00 PM
+i willnow
+done
+Mallow
+
+ — 1/22/2026 5:02 PM
+thank you
+Mallow
+
+ — 1/22/2026 10:38 PM
+{
+	"Name": "Devils arena",
+	"Version": 1769114269,
+	"MaxPerkRepetition": 1,
+	"GlobalNotes": "",
+	"Tiers": [
+
+devils_arena (8).json
+47 KB
+maybe i forgot something
+svexy — 1/22/2026 10:45 PM
+done
+Mallow
+
+ — 1/23/2026 6:05 PM
+i have a question
+svexy — 1/23/2026 6:06 PM
+yes 
+Mallow
+
+ — 1/23/2026 6:06 PM
+why for some is onryo disabled on bbd but she is open ?
+svexy — 1/23/2026 6:07 PM
+uh
+idk
+Mallow
+
+ — 1/23/2026 6:07 PM
+and still tehy cant fix teh cracke rbug , i make yesterday in one of teh 2 updates cracker in vs freddy and pig   still nothign out on them
+and 2 perks are banned  in general which were open for long time  and now banned and idk why
+svexy — 1/23/2026 6:09 PM
+ill re add the file
+5mins
+Mallow
+
+ — 1/23/2026 6:16 PM
+its about dms and call of brine
+{
+	"Name": "Devils arena",
+	"Version": 1769185141,
+	"MaxPerkRepetition": 1,
+	"GlobalNotes": "",
+	"Tiers": [
+
+devils_arena (10).json
+47 KB
+i make them open again
+svexy — 1/23/2026 6:35 PM
+ii did
+svexy — 1/24/2026 1:37 AM
+hey
+when will the channels for theworld cup be 
+Mallow
+
+ — 1/24/2026 1:52 AM
+your vs chat will come mostly next week
+svexy — 1/24/2026 1:55 AM
+OK
+Mallow
+
+ — 1/24/2026 1:56 AM
+they play on sunday maybe i make after it new vs chat our or on monday
+Mallow
+
+ — 1/27/2026 2:12 PM
+hey , i have again one thing to add on bbd
 {
 	"Name": "Devils arena",
 	"Version": 1769515904,
+	"MaxPerkRepetition": 1,
+	"GlobalNotes": "",
+	"Tiers": [
+
+devils_arena (11).json
+47 KB
+svexy — 1/27/2026 2:17 PM
+I'll be home in 3hrs I will do it then
+Mallow
+
+ — 1/27/2026 2:17 PM
+sure no stress
+Mallow
+
+ — 1/27/2026 10:00 PM
+you make what i send you ?
+i need the changes for the game now
+svexy — 1/27/2026 10:04 PM
+i am
+i did
+Mallow
+
+ — 12:50 AM
+{
+	"Name": "Devils arena",
+	"Version": 1769726991,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -14,6 +188,7 @@
 				"5",
 				"6",
 				"52",
+				"300",
 				"258",
 				"16",
 				"17",
@@ -25,6 +200,7 @@
 				"24",
 				"25",
 				"60",
+				"301",
 				"273",
 				"286",
 				"288",
@@ -32,6 +208,7 @@
 				"33",
 				"40",
 				"280",
+				"303",
 				"268",
 				"267",
 				"46",
@@ -71,12 +248,134 @@
 				"263",
 				"260",
 				"253",
+				"302",
 				"116",
+				"305",
 				"290",
 				"287",
 				"120",
 				"122",
 				"126",
+				"304",
+				"254",
+				"130"
+			],
+			"KillerIndvPerkBans": [
+				"131",
+				"133",
+				"270",
+				"134",
+				"136",
+				"138",
+				"139",
+				"140",
+				"146",
+				"147",
+				"144",
+... (3,074 lines left)
+
+devils_arena (13).json
+48 KB
+general bann from new perks and disabled new killer
+﻿
+🌹You learned the hard Way : not everyone deserves the healed Version of you . Some only learned your Silence.
+Mallow
+mallow7255
+
+ 
+ 
+ 
+ 
+ 
+𝕋𝕖𝕒𝕞 ℂ𝕒𝕡𝕥𝕒𝕚𝕟 𝕗𝕠𝕣 𝕋𝕖𝕒𝕞 Hurricane
+CEO of the Devils Arena Tourney 
+Staff for   Midnight Trails , The Arkade & Wildcard League 
+https://discord.gg/swxNGbdJnP
+{
+	"Name": "Devils arena",
+	"Version": 1769726991,
+	"MaxPerkRepetition": 1,
+	"GlobalNotes": "",
+	"Tiers": [
+		{
+			"Name": "General",
+			"SurvivorIndvPerkBans": [
+				"0",
+				"2",
+				"3",
+				"285",
+				"5",
+				"6",
+				"52",
+				"300",
+				"258",
+				"16",
+				"17",
+				"18",
+				"247",
+				"19",
+				"20",
+				"22",
+				"24",
+				"25",
+				"60",
+				"301",
+				"273",
+				"286",
+				"288",
+				"29",
+				"33",
+				"40",
+				"280",
+				"303",
+				"268",
+				"267",
+				"46",
+				"49",
+				"294",
+				"262",
+				"55",
+				"274",
+				"252",
+				"59",
+				"289",
+				"66",
+				"69",
+				"269",
+				"73",
+				"74",
+				"295",
+				"77",
+				"79",
+				"80",
+				"83",
+				"84",
+				"86",
+				"88",
+				"281",
+				"90",
+				"296",
+				"97",
+				"98",
+				"99",
+				"102",
+				"275",
+				"105",
+				"106",
+				"108",
+				"110",
+				"263",
+				"260",
+				"253",
+				"302",
+				"116",
+				"305",
+				"290",
+				"287",
+				"120",
+				"122",
+				"126",
+				"304",
 				"254",
 				"130"
 			],
@@ -108,6 +407,7 @@
 				"171",
 				"179",
 				"175",
+				"299",
 				"277",
 				"180",
 				"182",
@@ -140,6 +440,7 @@
 				"218",
 				"272",
 				"219",
+				"298",
 				"221",
 				"222",
 				"223",
@@ -149,6 +450,7 @@
 				"231",
 				"232",
 				"235",
+				"297",
 				"238",
 				"250",
 				"251",
@@ -181,6 +483,10 @@
 				[
 					"135",
 					"229"
+				],
+				[
+					"150",
+					"220"
 				]
 			]
 		},
@@ -3105,6 +3411,59 @@
 			},
 			"SurvivorOfferings": [],
 			"KillerOfferings": []
+		},
+		{
+			"Name": "The First",
+			"KillerNotes": "",
+			"IsDisabled": true,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
+devils_arena (13).json
+48 KB
