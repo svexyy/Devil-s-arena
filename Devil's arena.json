@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1770150101,
+	"Version": 1773177695,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1045,11 +1045,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				3
+				2
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1070,7 +1070,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5
+				5,
+				7
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1085,7 +1086,11 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -1201,15 +1206,17 @@
 		{
 			"Name": "The Legion",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1221,7 +1228,11 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				278,
+				276,
+				277
+			],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1243,8 +1254,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Plague",
@@ -2097,7 +2114,7 @@
 		{
 			"Name": "The Dredge",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"34"
 			],
