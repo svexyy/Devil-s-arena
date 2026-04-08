@@ -1,12 +1,13 @@
 {
 	"Name": "Devils arena",
-	"Version": 1775604581,
+	"Version": 1775688218,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
 		{
 			"Name": "General",
 			"SurvivorIndvPerkBans": [
+				"306",
 				"0",
 				"2",
 				"3",
@@ -40,6 +41,8 @@
 				"268",
 				"267",
 				"46",
+				"307",
+				"308",
 				"49",
 				"294",
 				"262",
@@ -99,6 +102,7 @@
 				"147",
 				"144",
 				"149",
+				"153",
 				"155",
 				"266",
 				"162",
@@ -557,7 +561,8 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				10
+				10,
+				31
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1172,7 +1177,8 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				10
+				10,
+				31
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1287,7 +1293,9 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"220"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"53",
@@ -1307,7 +1315,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5
+				5,
+				31
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1375,7 +1384,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				31
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1440,7 +1450,8 @@
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				31
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1577,7 +1588,8 @@
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
 				0,
-				5
+				5,
+				31
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1728,7 +1740,8 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				10
+				10,
+				31
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2215,7 +2228,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5
+				5,
+				31
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2656,7 +2670,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5
+				5,
+				31
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2727,7 +2742,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5
+				5,
+				31
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3010,7 +3026,8 @@
 				5,
 				10,
 				14,
-				0
+				0,
+				31
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
