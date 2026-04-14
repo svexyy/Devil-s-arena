@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1775688218,
+	"Version": 1776193449,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -310,7 +310,7 @@
 			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -2257,8 +2257,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -3066,7 +3065,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				3
+				5
 			],
 			"KillerOfferings": [
 				5
