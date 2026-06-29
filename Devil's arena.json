@@ -2644,4 +2644,5296 @@ Addons	[]
 Fog Vial	
 Addons	[]
 SurvivorOfferings	[]
+KillerOfferings	[]	
+Name	"Devils arena"
+Version	1782761831
+MaxPerkRepetition	1
+GlobalNotes	""
+Tiers	
+0	
+Name	"General"
+SurvivorIndvPerkBans	
+0	"306"
+1	"0"
+2	"2"
+3	"3"
+4	"285"
+5	"5"
+6	"6"
+7	"52"
+8	"300"
+9	"258"
+10	"16"
+11	"17"
+12	"18"
+13	"247"
+14	"19"
+15	"20"
+16	"73"
+17	"22"
+18	"24"
+19	"25"
+20	"60"
+21	"301"
+22	"273"
+23	"286"
+24	"288"
+25	"29"
+26	"312"
+27	"33"
+28	"40"
+29	"108"
+30	"280"
+31	"303"
+32	"268"
+33	"267"
+34	"46"
+35	"307"
+36	"308"
+37	"49"
+38	"50"
+39	"294"
+40	"262"
+41	"55"
+42	"57"
+43	"274"
+44	"252"
+45	"59"
+46	"289"
+47	"62"
+48	"313"
+49	"66"
+50	"69"
+51	"269"
+52	"74"
+53	"295"
+54	"76"
+55	"77"
+56	"79"
+57	"80"
+58	"81"
+59	"82"
+60	"83"
+61	"84"
+62	"85"
+63	"86"
+64	"88"
+65	"281"
+66	"90"
+67	"91"
+68	"93"
+69	"296"
+70	"97"
+71	"98"
+72	"99"
+73	"102"
+74	"275"
+75	"105"
+76	"106"
+77	"110"
+78	"263"
+79	"111"
+80	"260"
+81	"253"
+82	"302"
+83	"116"
+84	"305"
+85	"290"
+86	"287"
+87	"117"
+88	"119"
+89	"120"
+90	"122"
+91	"124"
+92	"126"
+93	"304"
+94	"254"
+95	"314"
+96	"130"
+KillerIndvPerkBans	
+0	"131"
+1	"133"
+2	"270"
+3	"134"
+4	"136"
+5	"138"
+6	"139"
+7	"140"
+8	"146"
+9	"147"
+10	"144"
+11	"149"
+12	"153"
+13	"155"
+14	"266"
+15	"162"
+16	"276"
+17	"244"
+18	"166"
+19	"167"
+20	"168"
+21	"169"
+22	"170"
+23	"282"
+24	"283"
+25	"171"
+26	"179"
+27	"175"
+28	"299"
+29	"277"
+30	"180"
+31	"310"
+32	"182"
+33	"183"
+34	"243"
+35	"264"
+36	"185"
+37	"186"
+38	"265"
+39	"187"
+40	"188"
+41	"215"
+42	"194"
+43	"256"
+44	"195"
+45	"198"
+46	"202"
+47	"203"
+48	"151"
+49	"271"
+50	"278"
+51	"205"
+52	"206"
+53	"207"
+54	"284"
+55	"211"
+56	"309"
+57	"214"
+58	"216"
+59	"218"
+60	"272"
+61	"219"
+62	"298"
+63	"209"
+64	"221"
+65	"222"
+66	"223"
+67	"311"
+68	"225"
+69	"226"
+70	"227"
+71	"231"
+72	"232"
+73	"235"
+74	"297"
+75	"238"
+76	"250"
+77	"251"
+78	"257"
+79	"242"
+SurvivorComboPerkBans	
+0	
+0	"58"
+1	"67"
+1	
+0	"67"
+1	"76"
+2	
+0	"36"
+1	"78"
+3	
+0	"38"
+1	"92"
+KillerComboPerkBans	
+0	
+0	"177"
+1	"204"
+1	
+0	"135"
+1	"229"
+2	
+0	"150"
+1	"220"
+1	
+Name	"Tier 1"
+SurvivorIndvPerkBans	[]
+KillerIndvPerkBans	
+0	"163"
+1	"172"
+2	"178"
+3	"204"
+4	"220"
+5	"217"
+SurvivorComboPerkBans	[]
+KillerComboPerkBans	[]
+2	
+Name	"Tier 2"
+SurvivorIndvPerkBans	
+0	"7"
+1	"13"
+2	"21"
+3	"34"
+4	"38"
+5	"76"
+6	"96"
+7	"121"
+8	"127"
+9	"36"
+KillerIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+KillerComboPerkBans	[]
+3	
+Name	"Tier 3"
+SurvivorIndvPerkBans	
+0	"1"
+1	"7"
+2	"8"
+3	"13"
+4	"21"
+5	"34"
+6	"38"
+7	"44"
+8	"47"
+9	"65"
+10	"67"
+11	"89"
+12	"96"
+13	"109"
+14	"112"
+15	"121"
+16	"127"
+17	"36"
+KillerIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+KillerComboPerkBans	[]
+4	
+Name	"Tier 4"
+SurvivorIndvPerkBans	
+0	"1"
+1	"7"
+2	"8"
+3	"13"
+4	"21"
+5	"34"
+6	"38"
+7	"261"
+8	"47"
+9	"50"
+10	"54"
+11	"57"
+12	"61"
+13	"65"
+14	"67"
+15	"259"
+16	"76"
+17	"89"
+18	"96"
+19	"92"
+20	"109"
+21	"112"
+22	"113"
+23	"121"
+24	"127"
+25	"128"
+26	"36"
+KillerIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+KillerComboPerkBans	[]
+5	
+Name	"Tier 5"
+SurvivorIndvPerkBans	[]
+KillerIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+KillerComboPerkBans	[]
+KillerOverride	
+0	
+Name	"The Trapper"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	"0"
+BalanceTiers	
+0	0
+SurvivorBalanceTiers	
+0	0
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	[]
+ItemWhitelist	
+0	5
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	6
+KillerOfferings	
+0	5
+1	
+Name	"The Wraith"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"33"
+BalanceTiers	
+0	0
+1	4
+SurvivorBalanceTiers	
+0	0
+1	4
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"8"
+1	"76"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	37
+ItemWhitelist	
+0	0
+1	5
+2	31
+3	7
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+2	
+Name	"The Hillbilly"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"6"
+BalanceTiers	
+0	0
+1	1
+SurvivorBalanceTiers	
+0	0
+1	1
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	
+0	
+0	"160"
+1	"210"
+SurvivorIndvPerkBans	
+0	"38"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	54
+1	58
+ItemWhitelist	
+0	0
+1	10
+2	14
+3	5
+4	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	8
+1	11
+Toolbox	
+Addons	
+0	0
+1	1
+2	2
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+3	
+Name	"The Nurse"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"0"
+BalanceTiers	
+0	0
+1	1
+SurvivorBalanceTiers	
+0	0
+1	1
+AntiFacecampPermitted	false
+KillerIndvPerkBans	
+0	"132"
+KillerComboPerkBans	
+0	
+0	"160"
+1	"210"
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	70
+1	77
+2	75
+3	76
+4	68
+ItemWhitelist	
+0	0
+1	5
+2	10
+3	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	8
+1	11
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+4	
+Name	"The Shape"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	0
+BalanceTiers	
+0	0
+SurvivorBalanceTiers	
+0	0
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	[]
+ItemWhitelist	[]
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	[]
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	[]
+KillerOfferings	[]
+5	
+Name	"The Hag"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	0
+BalanceTiers	
+0	0
+SurvivorBalanceTiers	
+0	0
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	[]
+ItemWhitelist	[]
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	[]
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	[]
+KillerOfferings	[]
+6	
+Name	"The Doctor"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"9"
+BalanceTiers	
+0	0
+1	4
+SurvivorBalanceTiers	
+0	0
+1	4
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"26"
+1	"50"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	[]
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+7	
+Name	"The Huntress"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"8"
+BalanceTiers	
+0	0
+1	4
+SurvivorBalanceTiers	
+0	0
+1	4
+AntiFacecampPermitted	false
+KillerIndvPerkBans	
+0	"132"
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+1	3
+IndividualAddonBans	
+0	148
+1	144
+2	142
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+8	
+Name	"The Cannibal"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"33"
+BalanceTiers	
+0	0
+1	3
+SurvivorBalanceTiers	
+0	0
+1	3
+AntiFacecampPermitted	false
+KillerIndvPerkBans	
+0	"132"
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	174
+1	175
+ItemWhitelist	
+0	0
+1	5
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+9	
+Name	"The Nightmare"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"0"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	198
+1	197
+ItemWhitelist	
+0	5
+1	0
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+10	
+Name	"The Pig"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"34"
+BalanceTiers	
+0	0
+1	4
+SurvivorBalanceTiers	
+0	0
+1	4
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	218
+1	217
+2	216
+3	214
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	5
+KillerOfferings	
+0	5
+11	
+Name	"The Clown"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	"8"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"124"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	235
+ItemWhitelist	
+0	0
+1	5
+2	7
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+12	
+Name	"The Spirit"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"8"
+BalanceTiers	
+0	0
+1	1
+SurvivorBalanceTiers	
+0	0
+1	1
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	
+0	
+0	"160"
+1	"210"
+SurvivorIndvPerkBans	
+0	"7"
+1	"10"
+2	"11"
+3	"26"
+4	"32"
+5	"38"
+6	"58"
+7	"63"
+8	"64"
+9	"67"
+10	"68"
+11	"78"
+12	"82"
+13	"103"
+14	"115"
+15	"128"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	3
+1	4
+IndividualAddonBans	
+0	249
+1	252
+ItemWhitelist	
+0	0
+1	5
+2	10
+3	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	8
+1	11
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+13	
+Name	"The Legion"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"33"
+BalanceTiers	
+0	0
+1	3
+SurvivorBalanceTiers	
+0	0
+1	3
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+1	3
+IndividualAddonBans	
+0	278
+1	276
+2	277
+ItemWhitelist	[]
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	[]
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+14	
+Name	"The Plague"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"46"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	
+0	"220"
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"53"
+1	"95"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	293
+1	279
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+15	
+Name	"The Ghost Face"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"20"
+BalanceTiers	
+0	0
+1	4
+SurvivorBalanceTiers	
+0	0
+1	4
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	316
+ItemWhitelist	
+0	5
+1	0
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	5
+KillerOfferings	
+0	5
+16	
+Name	"The Demogorgon"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"0"
+BalanceTiers	
+0	0
+1	3
+SurvivorBalanceTiers	
+0	0
+1	3
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"50"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	[]
+ItemWhitelist	
+0	5
+1	0
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+17	
+Name	"The Oni"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"0"
+BalanceTiers	
+0	0
+1	3
+SurvivorBalanceTiers	
+0	0
+1	3
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"261"
+1	"76"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	[]
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+18	
+Name	"The Deathslinger"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"5"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"54"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	[]
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+3	6
+KillerOfferings	
+0	5
+19	
+Name	"The Executioner"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"8"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	true
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	398
+1	397
+2	396
+3	395
+4	394
+5	393
+ItemWhitelist	
+0	0
+1	5
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+20	
+Name	"The Blight"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"4"
+BalanceTiers	
+0	0
+1	1
+SurvivorBalanceTiers	
+0	0
+1	1
+AntiFacecampPermitted	false
+KillerIndvPerkBans	
+0	"132"
+1	"142"
+KillerComboPerkBans	
+0	
+0	"160"
+1	"210"
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+1	3
+IndividualAddonBans	
+0	410
+1	412
+ItemWhitelist	
+0	0
+1	5
+2	10
+3	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	8
+1	11
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+21	
+Name	"The Twins"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"4"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+1	3
+IndividualAddonBans	[]
+ItemWhitelist	
+0	5
+1	10
+2	31
+3	0
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+3	11
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+22	
+Name	"The Trickster"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"0"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+1	3
+IndividualAddonBans	
+0	449
+ItemWhitelist	
+0	0
+1	4
+2	7
+3	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+23	
+Name	"The Nemesis"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	0
+BalanceTiers	
+0	0
+SurvivorBalanceTiers	
+0	0
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	[]
+ItemWhitelist	[]
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	[]
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	[]
+KillerOfferings	[]
+24	
+Name	"The Cenobite"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"33"
+BalanceTiers	
+0	0
+1	3
+SurvivorBalanceTiers	
+0	0
+1	3
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"8"
+1	"101"
+2	"50"
+3	"61"
+4	"76"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	495
+1	496
+ItemWhitelist	
+0	0
+1	5
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+25	
+Name	"The Artist"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"5"
+BalanceTiers	
+0	0
+1	3
+SurvivorBalanceTiers	
+0	0
+1	3
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	515
+ItemWhitelist	
+0	5
+1	0
+2	7
+3	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+26	
+Name	"The Onryo"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"32"
+BalanceTiers	
+0	0
+1	4
+SurvivorBalanceTiers	
+0	0
+1	4
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	533
+1	534
+2	535
+3	536
+4	537
+5	538
+ItemWhitelist	
+0	5
+1	0
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	5
+1	6
+KillerOfferings	
+0	5
+27	
+Name	"The Dredge"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"34"
+BalanceTiers	
+0	0
+1	4
+SurvivorBalanceTiers	
+0	0
+1	4
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	557
+1	558
+2	553
+3	554
+4	555
+5	556
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	5
+KillerOfferings	
+0	5
+28	
+Name	"The Mastermind"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"0"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"109"
+1	"128"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+1	3
+IndividualAddonBans	[]
+ItemWhitelist	
+0	0
+1	5
+2	31
+3	7
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+29	
+Name	"The Knight"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	"4"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	596
+1	595
+2	594
+3	593
+4	598
+5	597
+ItemWhitelist	
+0	0
+1	5
+2	7
+3	14
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	
+0	0
+1	1
+2	2
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+3	6
+KillerOfferings	
+0	5
+30	
+Name	"The Skull Merchant"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	"31"
+BalanceTiers	
+0	0
+SurvivorBalanceTiers	
+0	0
+1	3
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	618
+1	617
+ItemWhitelist	
+0	5
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+3	6
+KillerOfferings	
+0	5
+31	
+Name	"The Singularity"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	"5"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"8"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	635
+1	636
+ItemWhitelist	
+0	0
+1	5
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+3	6
+KillerOfferings	
+0	5
+32	
+Name	"The Xenomorph"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	"9"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	658
+1	657
+2	655
+3	654
+ItemWhitelist	
+0	5
+1	8
+2	14
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	
+0	0
+1	1
+2	2
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+3	6
+KillerOfferings	
+0	5
+33	
+Name	"The Good Guy"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"1"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	671
+1	668
+2	675
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+34	
+Name	"The Unknown"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"49"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	
+0	"200"
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	693
+1	688
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+35	
+Name	"The Lich"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	0
+BalanceTiers	
+0	0
+SurvivorBalanceTiers	
+0	0
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	[]
+ItemWhitelist	[]
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	[]
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	[]
+KillerOfferings	[]
+36	
+Name	"The Dark Lord"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"49"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"50"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	738
+1	737
+2	736
+3	735
+4	734
+5	733
+ItemWhitelist	
+0	5
+1	7
+2	14
+3	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	
+0	0
+1	1
+2	2
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+37	
+Name	"The Houndmaster"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"49"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	758
+1	757
+2	756
+3	755
+4	754
+5	753
+ItemWhitelist	
+0	5
+1	7
+2	31
+3	0
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+38	
+Name	"The Ghoul"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"49"
+BalanceTiers	
+0	0
+1	1
+SurvivorBalanceTiers	
+0	0
+1	1
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"21"
+1	"62"
+2	"81"
+3	"82"
+4	"89"
+5	"91"
+6	"93"
+7	"111"
+8	"117"
+9	"119"
+10	"128"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	778
+1	777
+2	773
+3	775
+4	768
+5	769
+6	771
+7	774
+8	772
+9	776
+ItemWhitelist	
+0	5
+1	10
+2	14
+3	0
+4	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+3	11
+Toolbox	
+Addons	
+0	0
+1	1
+2	2
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+39	
+Name	"The Animatronic"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"6"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	797
+1	798
+2	795
+3	793
+ItemWhitelist	
+0	0
+1	5
+2	14
+3	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	
+0	0
+1	1
+2	2
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+40	
+Name	"The Krasue"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	"5"
+BalanceTiers	
+0	0
+1	1
+SurvivorBalanceTiers	
+0	0
+1	1
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	817
+1	818
+2	816
+3	813
+4	814
+5	815
+6	812
+7	809
+8	810
+9	811
+ItemWhitelist	
+0	5
+1	7
+2	14
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	
+0	0
+1	1
+2	2
+Key	
+Addons	[]
+Map	
+Addons	[]
+Fog Vial	
+Addons	[]
+SurvivorOfferings	[]
+KillerOfferings	[]
+41	
+Name	"The First"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	0
+BalanceTiers	
+0	0
+SurvivorBalanceTiers	
+0	0
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	[]
+ItemWhitelist	[]
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	[]
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+Fog Vial	
+Addons	[]
+SurvivorOfferings	[]
+KillerOfferings	[]
+42	
+Name	"The Slasher"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	0
+BalanceTiers	
+0	0
+SurvivorBalanceTiers	
+0	0
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	[]
+ItemWhitelist	[]
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	[]
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+Fog Vial	
+Addons	[]
+SurvivorOfferings	[]
+KillerOfferings	[]	
+Name	"Devils arena"
+Version	1782761831
+MaxPerkRepetition	1
+GlobalNotes	""
+Tiers	
+0	
+Name	"General"
+SurvivorIndvPerkBans	
+0	"306"
+1	"0"
+2	"2"
+3	"3"
+4	"285"
+5	"5"
+6	"6"
+7	"52"
+8	"300"
+9	"258"
+10	"16"
+11	"17"
+12	"18"
+13	"247"
+14	"19"
+15	"20"
+16	"73"
+17	"22"
+18	"24"
+19	"25"
+20	"60"
+21	"301"
+22	"273"
+23	"286"
+24	"288"
+25	"29"
+26	"312"
+27	"33"
+28	"40"
+29	"108"
+30	"280"
+31	"303"
+32	"268"
+33	"267"
+34	"46"
+35	"307"
+36	"308"
+37	"49"
+38	"50"
+39	"294"
+40	"262"
+41	"55"
+42	"57"
+43	"274"
+44	"252"
+45	"59"
+46	"289"
+47	"62"
+48	"313"
+49	"66"
+50	"69"
+51	"269"
+52	"74"
+53	"295"
+54	"76"
+55	"77"
+56	"79"
+57	"80"
+58	"81"
+59	"82"
+60	"83"
+61	"84"
+62	"85"
+63	"86"
+64	"88"
+65	"281"
+66	"90"
+67	"91"
+68	"93"
+69	"296"
+70	"97"
+71	"98"
+72	"99"
+73	"102"
+74	"275"
+75	"105"
+76	"106"
+77	"110"
+78	"263"
+79	"111"
+80	"260"
+81	"253"
+82	"302"
+83	"116"
+84	"305"
+85	"290"
+86	"287"
+87	"117"
+88	"119"
+89	"120"
+90	"122"
+91	"124"
+92	"126"
+93	"304"
+94	"254"
+95	"314"
+96	"130"
+KillerIndvPerkBans	
+0	"131"
+1	"133"
+2	"270"
+3	"134"
+4	"136"
+5	"138"
+6	"139"
+7	"140"
+8	"146"
+9	"147"
+10	"144"
+11	"149"
+12	"153"
+13	"155"
+14	"266"
+15	"162"
+16	"276"
+17	"244"
+18	"166"
+19	"167"
+20	"168"
+21	"169"
+22	"170"
+23	"282"
+24	"283"
+25	"171"
+26	"179"
+27	"175"
+28	"299"
+29	"277"
+30	"180"
+31	"310"
+32	"182"
+33	"183"
+34	"243"
+35	"264"
+36	"185"
+37	"186"
+38	"265"
+39	"187"
+40	"188"
+41	"215"
+42	"194"
+43	"256"
+44	"195"
+45	"198"
+46	"202"
+47	"203"
+48	"151"
+49	"271"
+50	"278"
+51	"205"
+52	"206"
+53	"207"
+54	"284"
+55	"211"
+56	"309"
+57	"214"
+58	"216"
+59	"218"
+60	"272"
+61	"219"
+62	"298"
+63	"209"
+64	"221"
+65	"222"
+66	"223"
+67	"311"
+68	"225"
+69	"226"
+70	"227"
+71	"231"
+72	"232"
+73	"235"
+74	"297"
+75	"238"
+76	"250"
+77	"251"
+78	"257"
+79	"242"
+SurvivorComboPerkBans	
+0	
+0	"58"
+1	"67"
+1	
+0	"67"
+1	"76"
+2	
+0	"36"
+1	"78"
+3	
+0	"38"
+1	"92"
+KillerComboPerkBans	
+0	
+0	"177"
+1	"204"
+1	
+0	"135"
+1	"229"
+2	
+0	"150"
+1	"220"
+1	
+Name	"Tier 1"
+SurvivorIndvPerkBans	[]
+KillerIndvPerkBans	
+0	"163"
+1	"172"
+2	"178"
+3	"204"
+4	"220"
+5	"217"
+SurvivorComboPerkBans	[]
+KillerComboPerkBans	[]
+2	
+Name	"Tier 2"
+SurvivorIndvPerkBans	
+0	"7"
+1	"13"
+2	"21"
+3	"34"
+4	"38"
+5	"76"
+6	"96"
+7	"121"
+8	"127"
+9	"36"
+KillerIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+KillerComboPerkBans	[]
+3	
+Name	"Tier 3"
+SurvivorIndvPerkBans	
+0	"1"
+1	"7"
+2	"8"
+3	"13"
+4	"21"
+5	"34"
+6	"38"
+7	"44"
+8	"47"
+9	"65"
+10	"67"
+11	"89"
+12	"96"
+13	"109"
+14	"112"
+15	"121"
+16	"127"
+17	"36"
+KillerIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+KillerComboPerkBans	[]
+4	
+Name	"Tier 4"
+SurvivorIndvPerkBans	
+0	"1"
+1	"7"
+2	"8"
+3	"13"
+4	"21"
+5	"34"
+6	"38"
+7	"261"
+8	"47"
+9	"50"
+10	"54"
+11	"57"
+12	"61"
+13	"65"
+14	"67"
+15	"259"
+16	"76"
+17	"89"
+18	"96"
+19	"92"
+20	"109"
+21	"112"
+22	"113"
+23	"121"
+24	"127"
+25	"128"
+26	"36"
+KillerIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+KillerComboPerkBans	[]
+5	
+Name	"Tier 5"
+SurvivorIndvPerkBans	[]
+KillerIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+KillerComboPerkBans	[]
+KillerOverride	
+0	
+Name	"The Trapper"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	"0"
+BalanceTiers	
+0	0
+SurvivorBalanceTiers	
+0	0
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	[]
+ItemWhitelist	
+0	5
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	6
+KillerOfferings	
+0	5
+1	
+Name	"The Wraith"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"33"
+BalanceTiers	
+0	0
+1	4
+SurvivorBalanceTiers	
+0	0
+1	4
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"8"
+1	"76"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	37
+ItemWhitelist	
+0	0
+1	5
+2	31
+3	7
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+2	
+Name	"The Hillbilly"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"6"
+BalanceTiers	
+0	0
+1	1
+SurvivorBalanceTiers	
+0	0
+1	1
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	
+0	
+0	"160"
+1	"210"
+SurvivorIndvPerkBans	
+0	"38"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	54
+1	58
+ItemWhitelist	
+0	0
+1	10
+2	14
+3	5
+4	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	8
+1	11
+Toolbox	
+Addons	
+0	0
+1	1
+2	2
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+3	
+Name	"The Nurse"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"0"
+BalanceTiers	
+0	0
+1	1
+SurvivorBalanceTiers	
+0	0
+1	1
+AntiFacecampPermitted	false
+KillerIndvPerkBans	
+0	"132"
+KillerComboPerkBans	
+0	
+0	"160"
+1	"210"
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	70
+1	77
+2	75
+3	76
+4	68
+ItemWhitelist	
+0	0
+1	5
+2	10
+3	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	8
+1	11
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+4	
+Name	"The Shape"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	0
+BalanceTiers	
+0	0
+SurvivorBalanceTiers	
+0	0
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	[]
+ItemWhitelist	[]
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	[]
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	[]
+KillerOfferings	[]
+5	
+Name	"The Hag"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	0
+BalanceTiers	
+0	0
+SurvivorBalanceTiers	
+0	0
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	[]
+ItemWhitelist	[]
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	[]
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	[]
+KillerOfferings	[]
+6	
+Name	"The Doctor"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"9"
+BalanceTiers	
+0	0
+1	4
+SurvivorBalanceTiers	
+0	0
+1	4
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"26"
+1	"50"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	[]
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+7	
+Name	"The Huntress"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"8"
+BalanceTiers	
+0	0
+1	4
+SurvivorBalanceTiers	
+0	0
+1	4
+AntiFacecampPermitted	false
+KillerIndvPerkBans	
+0	"132"
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+1	3
+IndividualAddonBans	
+0	148
+1	144
+2	142
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+8	
+Name	"The Cannibal"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"33"
+BalanceTiers	
+0	0
+1	3
+SurvivorBalanceTiers	
+0	0
+1	3
+AntiFacecampPermitted	false
+KillerIndvPerkBans	
+0	"132"
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	174
+1	175
+ItemWhitelist	
+0	0
+1	5
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+9	
+Name	"The Nightmare"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"0"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	198
+1	197
+ItemWhitelist	
+0	5
+1	0
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+10	
+Name	"The Pig"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"34"
+BalanceTiers	
+0	0
+1	4
+SurvivorBalanceTiers	
+0	0
+1	4
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	218
+1	217
+2	216
+3	214
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	5
+KillerOfferings	
+0	5
+11	
+Name	"The Clown"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	"8"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"124"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	235
+ItemWhitelist	
+0	0
+1	5
+2	7
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+12	
+Name	"The Spirit"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"8"
+BalanceTiers	
+0	0
+1	1
+SurvivorBalanceTiers	
+0	0
+1	1
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	
+0	
+0	"160"
+1	"210"
+SurvivorIndvPerkBans	
+0	"7"
+1	"10"
+2	"11"
+3	"26"
+4	"32"
+5	"38"
+6	"58"
+7	"63"
+8	"64"
+9	"67"
+10	"68"
+11	"78"
+12	"82"
+13	"103"
+14	"115"
+15	"128"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	3
+1	4
+IndividualAddonBans	
+0	249
+1	252
+ItemWhitelist	
+0	0
+1	5
+2	10
+3	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	8
+1	11
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+13	
+Name	"The Legion"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"33"
+BalanceTiers	
+0	0
+1	3
+SurvivorBalanceTiers	
+0	0
+1	3
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+1	3
+IndividualAddonBans	
+0	278
+1	276
+2	277
+ItemWhitelist	[]
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	[]
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+14	
+Name	"The Plague"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"46"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	
+0	"220"
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"53"
+1	"95"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	293
+1	279
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+15	
+Name	"The Ghost Face"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"20"
+BalanceTiers	
+0	0
+1	4
+SurvivorBalanceTiers	
+0	0
+1	4
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	316
+ItemWhitelist	
+0	5
+1	0
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	5
+KillerOfferings	
+0	5
+16	
+Name	"The Demogorgon"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"0"
+BalanceTiers	
+0	0
+1	3
+SurvivorBalanceTiers	
+0	0
+1	3
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"50"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	[]
+ItemWhitelist	
+0	5
+1	0
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+17	
+Name	"The Oni"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"0"
+BalanceTiers	
+0	0
+1	3
+SurvivorBalanceTiers	
+0	0
+1	3
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"261"
+1	"76"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	[]
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+18	
+Name	"The Deathslinger"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"5"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"54"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	[]
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+3	6
+KillerOfferings	
+0	5
+19	
+Name	"The Executioner"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"8"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	true
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	398
+1	397
+2	396
+3	395
+4	394
+5	393
+ItemWhitelist	
+0	0
+1	5
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+20	
+Name	"The Blight"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"4"
+BalanceTiers	
+0	0
+1	1
+SurvivorBalanceTiers	
+0	0
+1	1
+AntiFacecampPermitted	false
+KillerIndvPerkBans	
+0	"132"
+1	"142"
+KillerComboPerkBans	
+0	
+0	"160"
+1	"210"
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+1	3
+IndividualAddonBans	
+0	410
+1	412
+ItemWhitelist	
+0	0
+1	5
+2	10
+3	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	8
+1	11
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+21	
+Name	"The Twins"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"4"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+1	3
+IndividualAddonBans	[]
+ItemWhitelist	
+0	5
+1	10
+2	31
+3	0
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+3	11
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+22	
+Name	"The Trickster"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"0"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+1	3
+IndividualAddonBans	
+0	449
+ItemWhitelist	
+0	0
+1	4
+2	7
+3	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+23	
+Name	"The Nemesis"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	0
+BalanceTiers	
+0	0
+SurvivorBalanceTiers	
+0	0
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	[]
+ItemWhitelist	[]
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	[]
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	[]
+KillerOfferings	[]
+24	
+Name	"The Cenobite"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"33"
+BalanceTiers	
+0	0
+1	3
+SurvivorBalanceTiers	
+0	0
+1	3
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"8"
+1	"101"
+2	"50"
+3	"61"
+4	"76"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	495
+1	496
+ItemWhitelist	
+0	0
+1	5
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+25	
+Name	"The Artist"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"5"
+BalanceTiers	
+0	0
+1	3
+SurvivorBalanceTiers	
+0	0
+1	3
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	515
+ItemWhitelist	
+0	5
+1	0
+2	7
+3	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+26	
+Name	"The Onryo"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"32"
+BalanceTiers	
+0	0
+1	4
+SurvivorBalanceTiers	
+0	0
+1	4
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	533
+1	534
+2	535
+3	536
+4	537
+5	538
+ItemWhitelist	
+0	5
+1	0
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	5
+1	6
+KillerOfferings	
+0	5
+27	
+Name	"The Dredge"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"34"
+BalanceTiers	
+0	0
+1	4
+SurvivorBalanceTiers	
+0	0
+1	4
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	557
+1	558
+2	553
+3	554
+4	555
+5	556
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	5
+KillerOfferings	
+0	5
+28	
+Name	"The Mastermind"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"0"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"109"
+1	"128"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+1	3
+IndividualAddonBans	[]
+ItemWhitelist	
+0	0
+1	5
+2	31
+3	7
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+29	
+Name	"The Knight"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	"4"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	596
+1	595
+2	594
+3	593
+4	598
+5	597
+ItemWhitelist	
+0	0
+1	5
+2	7
+3	14
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	
+0	0
+1	1
+2	2
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+3	6
+KillerOfferings	
+0	5
+30	
+Name	"The Skull Merchant"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	"31"
+BalanceTiers	
+0	0
+SurvivorBalanceTiers	
+0	0
+1	3
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	618
+1	617
+ItemWhitelist	
+0	5
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+3	6
+KillerOfferings	
+0	5
+31	
+Name	"The Singularity"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	"5"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"8"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	635
+1	636
+ItemWhitelist	
+0	0
+1	5
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+3	6
+KillerOfferings	
+0	5
+32	
+Name	"The Xenomorph"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	"9"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	658
+1	657
+2	655
+3	654
+ItemWhitelist	
+0	5
+1	8
+2	14
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	
+0	0
+1	1
+2	2
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+3	6
+KillerOfferings	
+0	5
+33	
+Name	"The Good Guy"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"1"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	671
+1	668
+2	675
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+34	
+Name	"The Unknown"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"49"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	
+0	"200"
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	
+0	4
+IndividualAddonBans	
+0	693
+1	688
+ItemWhitelist	
+0	0
+1	5
+2	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+35	
+Name	"The Lich"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	0
+BalanceTiers	
+0	0
+SurvivorBalanceTiers	
+0	0
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	[]
+ItemWhitelist	[]
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	[]
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	[]
+KillerOfferings	[]
+36	
+Name	"The Dark Lord"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"49"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"50"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	738
+1	737
+2	736
+3	735
+4	734
+5	733
+ItemWhitelist	
+0	5
+1	7
+2	14
+3	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	
+0	0
+1	1
+2	2
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+37	
+Name	"The Houndmaster"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"49"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	758
+1	757
+2	756
+3	755
+4	754
+5	753
+ItemWhitelist	
+0	5
+1	7
+2	31
+3	0
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+38	
+Name	"The Ghoul"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"49"
+BalanceTiers	
+0	0
+1	1
+SurvivorBalanceTiers	
+0	0
+1	1
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	
+0	"21"
+1	"62"
+2	"81"
+3	"82"
+4	"89"
+5	"91"
+6	"93"
+7	"111"
+8	"117"
+9	"119"
+10	"128"
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	778
+1	777
+2	773
+3	775
+4	768
+5	769
+6	771
+7	774
+8	772
+9	776
+ItemWhitelist	
+0	5
+1	10
+2	14
+3	0
+4	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+3	11
+Toolbox	
+Addons	
+0	0
+1	1
+2	2
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+39	
+Name	"The Animatronic"
+KillerNotes	""
+IsDisabled	false
+Map	
+0	"6"
+BalanceTiers	
+0	0
+1	2
+SurvivorBalanceTiers	
+0	0
+1	2
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	797
+1	798
+2	795
+3	793
+ItemWhitelist	
+0	0
+1	5
+2	14
+3	31
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	
+0	0
+1	1
+2	2
+Key	
+Addons	[]
+Map	
+Addons	[]
+SurvivorOfferings	
+0	0
+1	2
+2	5
+KillerOfferings	
+0	5
+40	
+Name	"The Krasue"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	"5"
+BalanceTiers	
+0	0
+1	1
+SurvivorBalanceTiers	
+0	0
+1	1
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	
+0	817
+1	818
+2	816
+3	813
+4	814
+5	815
+6	812
+7	809
+8	810
+9	811
+ItemWhitelist	
+0	5
+1	7
+2	14
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	
+0	1
+1	2
+2	3
+3	4
+Med-Kit	
+Addons	
+0	0
+1	1
+2	2
+Toolbox	
+Addons	
+0	0
+1	1
+2	2
+Key	
+Addons	[]
+Map	
+Addons	[]
+Fog Vial	
+Addons	[]
+SurvivorOfferings	[]
+KillerOfferings	[]
+41	
+Name	"The First"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	0
+BalanceTiers	
+0	0
+SurvivorBalanceTiers	
+0	0
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	[]
+ItemWhitelist	[]
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	[]
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+Fog Vial	
+Addons	[]
+SurvivorOfferings	[]
+KillerOfferings	[]
+42	
+Name	"The Slasher"
+KillerNotes	""
+IsDisabled	true
+Map	
+0	0
+BalanceTiers	
+0	0
+SurvivorBalanceTiers	
+0	0
+AntiFacecampPermitted	false
+KillerIndvPerkBans	[]
+KillerComboPerkBans	[]
+SurvivorIndvPerkBans	[]
+SurvivorComboPerkBans	[]
+SurvivorWhitelistedPerks	[]
+SurvivorWhitelistedComboPerks	[]
+KillerWhitelistedPerks	[]
+KillerWhitelistedComboPerks	[]
+AddonTiersBanned	[]
+IndividualAddonBans	[]
+ItemWhitelist	[]
+AddonWhitelist	
+Firecracker	
+Addons	[]
+Flashlight	
+Addons	[]
+Med-Kit	
+Addons	[]
+Toolbox	
+Addons	[]
+Key	
+Addons	[]
+Map	
+Addons	[]
+Fog Vial	
+Addons	[]
+SurvivorOfferings	[]
 KillerOfferings	[]
