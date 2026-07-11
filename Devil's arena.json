@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1782761831,
+	"Version": 1783777600,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -58,10 +58,10 @@
 				"313",
 				"66",
 				"69",
+				"70",
 				"269",
 				"74",
 				"295",
-				"76",
 				"77",
 				"79",
 				"80",
@@ -118,6 +118,7 @@
 				"147",
 				"144",
 				"149",
+				"150",
 				"153",
 				"155",
 				"266",
@@ -217,6 +218,10 @@
 				[
 					"150",
 					"220"
+				],
+				[
+					"170",
+					"220"
 				]
 			]
 		},
@@ -228,7 +233,6 @@
 				"172",
 				"178",
 				"204",
-				"220",
 				"217"
 			],
 			"SurvivorComboPerkBans": [],
@@ -242,9 +246,7 @@
 				"21",
 				"34",
 				"38",
-				"76",
 				"96",
-				"121",
 				"127",
 				"36"
 			],
@@ -2533,7 +2535,7 @@
 		{
 			"Name": "The Singularity",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"5"
 			],
@@ -2827,15 +2829,17 @@
 		{
 			"Name": "The Lich",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2846,15 +2850,27 @@
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
-			"AddonTiersBanned": [],
+			"AddonTiersBanned": [
+				4,
+				3
+			],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				4,
+				5,
+				31
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2869,8 +2885,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Dark Lord",
