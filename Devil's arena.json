@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1783777600,
+	"Version": 1783947495,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -45,7 +45,6 @@
 				"307",
 				"308",
 				"49",
-				"50",
 				"294",
 				"262",
 				"55",
@@ -247,8 +246,7 @@
 				"34",
 				"38",
 				"96",
-				"127",
-				"36"
+				"127"
 			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -290,7 +288,6 @@
 				"21",
 				"34",
 				"38",
-				"261",
 				"47",
 				"50",
 				"54",
@@ -299,7 +296,6 @@
 				"65",
 				"67",
 				"259",
-				"76",
 				"89",
 				"96",
 				"92",
@@ -308,7 +304,6 @@
 				"113",
 				"121",
 				"127",
-				"128",
 				"36"
 			],
 			"KillerIndvPerkBans": [],
@@ -1084,7 +1079,7 @@
 		{
 			"Name": "The Clown",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"8"
 			],
@@ -1116,7 +1111,8 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				7
+				7,
+				31
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1755,16 +1751,8 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"132",
-				"142"
-			],
-			"KillerComboPerkBans": [
-				[
-					"160",
-					"210"
-				]
-			],
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2203,7 +2191,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				31
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2218,7 +2207,11 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -2231,8 +2224,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
