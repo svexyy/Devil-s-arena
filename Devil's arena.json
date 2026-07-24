@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1784226105,
+	"Version": 1784921742,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -29,7 +29,6 @@
 				"25",
 				"60",
 				"301",
-				"273",
 				"286",
 				"288",
 				"29",
@@ -42,7 +41,6 @@
 				"268",
 				"267",
 				"46",
-				"307",
 				"308",
 				"49",
 				"294",
@@ -76,7 +74,6 @@
 				"91",
 				"93",
 				"296",
-				"97",
 				"98",
 				"99",
 				"102",
@@ -132,6 +129,7 @@
 				"282",
 				"283",
 				"171",
+				"174",
 				"179",
 				"175",
 				"299",
@@ -185,6 +183,7 @@
 				"250",
 				"251",
 				"257",
+				"241",
 				"242"
 			],
 			"SurvivorComboPerkBans": [
@@ -221,6 +220,10 @@
 				[
 					"170",
 					"220"
+				],
+				[
+					"160",
+					"210"
 				]
 			]
 		},
@@ -255,9 +258,7 @@
 		{
 			"Name": "Tier 3",
 			"SurvivorIndvPerkBans": [
-				"1",
 				"7",
-				"8",
 				"13",
 				"21",
 				"34",
@@ -281,9 +282,7 @@
 		{
 			"Name": "Tier 4",
 			"SurvivorIndvPerkBans": [
-				"1",
 				"7",
-				"8",
 				"13",
 				"21",
 				"34",
@@ -292,7 +291,6 @@
 				"50",
 				"54",
 				"57",
-				"61",
 				"65",
 				"67",
 				"259",
@@ -398,10 +396,12 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"174",
+				"178"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"8",
 				"76"
 			],
 			"SurvivorComboPerkBans": [],
@@ -475,7 +475,9 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"174"
+			],
 			"KillerComboPerkBans": [
 				[
 					"160",
@@ -560,7 +562,11 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"132"
+				"132",
+				"177",
+				"161",
+				"213",
+				"220"
 			],
 			"KillerComboPerkBans": [
 				[
@@ -739,7 +745,10 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"172",
+				"178"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"26",
@@ -810,7 +819,9 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"132"
+				"132",
+				"172",
+				"178"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
@@ -957,6 +968,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"76",
 				"36"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1026,7 +1038,9 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"204"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1170,7 +1184,9 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"177"
+			],
 			"KillerComboPerkBans": [
 				[
 					"160",
@@ -1405,9 +1421,15 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"177",
+				"161",
+				"241"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"279"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1753,7 +1775,9 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"220"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1902,9 +1926,13 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"163",
+				"177"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"67",
 				"121",
 				"36"
 			],
@@ -2251,9 +2279,13 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"177"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"128"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2324,9 +2356,13 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"279",
 				"50",
+				"67",
 				"76",
+				"92",
 				"109",
+				"112",
 				"121",
 				"128",
 				"36"
@@ -2687,7 +2723,7 @@
 		{
 			"Name": "The Good Guy",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"1"
 			],
@@ -2772,10 +2808,16 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"172",
 				"200"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"279",
+				"50",
+				"67",
+				"76",
+				"92",
 				"36"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2913,11 +2955,14 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"163",
+				"172",
+				"177"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"50",
-				"121",
 				"36"
 			],
 			"SurvivorComboPerkBans": [],
@@ -3075,7 +3120,9 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"177"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"21",
@@ -3161,7 +3208,7 @@
 		{
 			"Name": "The Animatronic",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"6"
 			],
@@ -3410,15 +3457,4 @@
 				"Key": {
 					"Addons": []
 				},
-				"Map": {
-					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
-				}
-			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
-		}
-	]
-}
+		... (1 KB left)
