@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1784921735,
+	"Version": 1787083036,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1111,6 +1111,10 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"50",
+				"67",
+				"92",
+				"109",
 				"124"
 			],
 			"SurvivorComboPerkBans": [],
@@ -3208,7 +3212,7 @@
 		{
 			"Name": "The Animatronic",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"6"
 			],
@@ -3419,15 +3423,17 @@
 		{
 			"Name": "The Slasher",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"6"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3440,16 +3446,31 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				4,
+				5,
+				7,
+				31,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -3461,10 +3482,17 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1
+					]
 				}
 			},
-			"SurvivorOfferings": [],
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
 			"KillerOfferings": []
 		}
 	]
