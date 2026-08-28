@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1787860777,
+	"Version": 1787512499,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -29,7 +29,6 @@
 				"25",
 				"60",
 				"301",
-				"273",
 				"286",
 				"288",
 				"29",
@@ -221,6 +220,10 @@
 				[
 					"170",
 					"220"
+				],
+				[
+					"160",
+					"210"
 				]
 			]
 		},
@@ -371,9 +374,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
-				5
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -1784,26 +1785,10 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"132",
-				"245",
-				"255",
-				"177",
-				"291",
-				"189"
+				"220"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"7",
-				"13",
-				"21",
-				"273",
-				"279",
-				"43",
-				"50",
-				"64",
-				"115",
-				"118"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2986,11 +2971,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"279",
-				"44",
-				"45",
 				"50",
-				"92",
 				"36"
 			],
 			"SurvivorComboPerkBans": [],
